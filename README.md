@@ -2,7 +2,7 @@
 
 ## Descrição
 Autor: Leandro Pinheiro Leite,
-Cargo: Analista progamador de Sistemas Embarcados
+Cargo: Analista programador de Sistemas Embarcados
 Descrição: Calculadora conversora, faz a conversão de Hexadecimal para decimal e decimal para hexadecimal 
 esse programa foi feito para quem usa a calculadora em modo programador, uma solução simples
 e bastante funcional.
